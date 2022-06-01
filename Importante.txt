@@ -1,0 +1,19 @@
+
+Tener:
+ - Node
+ - npm
+ - npx
+
+Hacer:
+
+ npx create-next-app [nombreApp]
+
+ Seleccionar plantilla
+
+ cd [nombreCarpeta]
+
+ npm run dev
+
+ 
+
+
